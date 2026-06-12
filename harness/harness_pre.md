@@ -124,3 +124,7 @@ Harness 显然包含了以下两个领域（实际上是prompt->context->harness
 | **单 Agent 还是多 Agent** | Hashimoto 坚持单 Agent，Carlini 使用 16 个并行 Agent | 规模决定。小项目单 Agent 往往够用，大项目更容易走向专业化分工 |
 
 >绿地项目和棕地项目是软件工程里的经典说法。绿地项目指从零开始的新项目，没有历史包袱，就像在空地上盖房子，想怎么设计都比较自由。棕地项目指在已有代码库上改造，里面有历史架构、技术债和遗留逻辑，就像在老旧城区翻新，很多管线不能随便动。
+
+---
+
+参考自：[JavaGuide - Harness Engineering](https://javaguide.cn/ai/agent/harness-engineering.html)
