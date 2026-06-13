@@ -12,7 +12,7 @@
 ## 生成环境
 
 - **模型**：DeepSeek v4 Pro
-- **Token 消耗**：约 70 万 tokens
+- **Token 消耗**：较多，百万左右
 - **运行环境**：TRAE IDE（原生）
 - **工作流程**：
   - 查阅 LangGraph 官方文档及社区资料
